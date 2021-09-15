@@ -1,1 +1,1 @@
-# NBM_Reg_project2
+# Reg_project2
