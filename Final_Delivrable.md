@@ -3,7 +3,7 @@ Raed Altuwaijri
 Email/Github: Altuwaijriraed@gmail.com
 
 ## Abstract
-This project aimed to find the stations with the highest shutdowns and the best time for maintenance operations, And answering the question, is that time suitable for all stations? So, I choose random stations and compare their behaviors and sees if it is following the behavior of the median. And I compared the behavior of the stations using the relative daily entries change.    
+   
 ## Design
 
 * Company info:\
@@ -53,6 +53,8 @@ Data obtained from [Social Blade](https://socialblade.com/youtube/) and [Web Arc
 * Facebook Prophet library for time series forecasting
 * The target variable is Total Subscribers
 * R-Sequared score for training and cross validation
+
+
 | Channel Name | Training R-Squared | Cross Validation R-Squared |
 |---|---|---|
 | mmoshaya | 0.99888 |  0.98599 |
