@@ -2,8 +2,14 @@
 Raed Altuwaijri
 Email/Github: Altuwaijriraed@gmail.com
 
+Fahad Alharbi
+Email/Github: Fa7adBinA@gmail.com
+
+
 ## Abstract
-   
+
+The goal of this project was to use linear regression models to predict the total subscription for the top five YouTube channels in the Kingdom of Saudi Arabia in terms of the growth rate in the number of subscriptions for each channel to find out the most influential channel in a short period, through scraping more than one stats site YouTube to extract data set for each YouTube channel, and using Time Series Prophet to predict the number of subscribers in the next two years for each channel through the available data and to know the most growth channel in terms of the number of subscribers for each channel
+
 ## Design
 
 * Company info:\
@@ -67,8 +73,10 @@ Data obtained from [Social Blade](https://socialblade.com/youtube/) and [Web Arc
 
 
 ## Tools:
-* Technologies: SQL, SQLite, Python, Jupyter notebook
-* Libraries: NumPy, Pandas, Matplotlib, Seaborn, SQLAlchemy
+* Technologies: Python, Jupyter notebook.
+* Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Plotly, Prophet, Requests, BeautifulSoup, Regex, Urllib, json, Plotly dash.
 
 ## Communication
+[](TOP5.png)
 
+[](Dash.png)
