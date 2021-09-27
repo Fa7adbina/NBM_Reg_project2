@@ -77,6 +77,6 @@ Data obtained from [Social Blade](https://socialblade.com/youtube/) and [Web Arc
 * Libraries: Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Plotly, Prophet, Requests, BeautifulSoup, Regex, Urllib, json, Plotly dash.
 
 ## Communication
-[](TOP5.png)
+![](TOP5.png)
 
-[](Dash.png)
+![](Dash.png)
