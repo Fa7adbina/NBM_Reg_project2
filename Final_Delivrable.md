@@ -1,4 +1,4 @@
-# EDA Final Delivrable
+# Regression Final Delivrable
 Raed Altuwaijri
 Email/Github: Altuwaijriraed@gmail.com
 
